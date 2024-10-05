@@ -1,3 +1,18 @@
 HateSpeechDataset.csv
 HateSpeechDatasetBalanced.csv
 labeled_data.csv
+tf_model.h5
+.DS_Store
+HateSpeechDatasetBalanced_100000.csv
+HateSpeechDatasetBalanced_reduced.csv
+HateSpeechDatasetBalanced_10000.csv
+HateSpeechDatasetBalanced_reduced.csv
+finetuned_bert_hatespeech/config.json
+finetuned_bert_hatespeech/special_tokens_map.json
+HateSpeechDatasetBalanced_reduced.csv
+finetuned_bert_hatespeech/tokenizer_config.json
+finetuned_bert_hatespeech/vocab.txt
+Resources/AASD 4010, Final Project.docx
+Resources/Report format.docx
+Andre_DL1_Fine_Tuning_BERT.ipynb
+Data_Reduction.ipynb
