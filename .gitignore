@@ -1,5 +1,5 @@
 HateSpeechDataset.csv
 HateSpeechDatasetBalanced.csv
 labeled_data.csv
-glove.6B
+FFCNN/glove.6B
 Data/
